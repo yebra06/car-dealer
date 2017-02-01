@@ -23,8 +23,8 @@ src/cardealership/DealershipMain.java is the main application entry point.
 Features
 ********
 
-* Serialize car
 * Maintain records of cars in your dealerships inventory.
+* Serialize/Deserialize cardealership's data objects.
 * Add and delete cars as you please.
 * Search inventory using a VIN.
 * Show a list of cars within a price range.
